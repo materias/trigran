@@ -1,0 +1,26 @@
+<template>
+  <div id="app">
+    <Constructor />
+  </div>
+</template>
+
+<script>
+import Constructor from './components/Constructor.vue'
+
+export default {
+  name: 'App',
+  components: {
+    Constructor
+  }
+}
+</script>
+
+<style>
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  margin-top: 30px;
+}
+</style>
