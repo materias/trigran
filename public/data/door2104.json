@@ -1,0 +1,230 @@
+{
+    "87": {
+        "Complect": {
+            "7": {
+                "sectId": "7",
+                "sectName": "Открывание",
+                "complect": [
+                    {
+                        "txt": "Lcп",
+                        "value": "15"
+                    },
+                    {
+                        "txt": "Rcп",
+                        "value": "16"
+                    }
+                ],
+                "block": [
+                    {
+                        "txt": "Стекло",
+                        "value": "73"
+                    }
+                ],
+                "zeroing": "N",
+                "svg": {
+                    "type": "Rectangle",
+                    "x": "34",
+                    "y": "280",
+                    "width": "48",
+                    "height": "19",
+                    "strokeWidth": "2",
+                    "strokeColor": "#ff0000",
+                    "id": "-7758593033238337"
+                },
+                "Complect": [
+                    {
+                        "img": null,
+                        "icon": "/upload/iblock/228/levaya.svg",
+                        "price": "1400"
+                    },
+                    {
+                        "img": null,
+                        "icon": "/upload/iblock/d00/pravaya.svg",
+                        "price": "1500"
+                    }
+                ]
+            }
+        },
+        "Model": {
+            "txt": "DOMANI 45 GROUND",
+            "value": "22"
+        },
+        "Razmer": [
+            {
+                "txt": "908x2396",
+                "value": "13"
+            },
+            {
+                "txt": "608x1996",
+                "value": "14"
+            }
+        ],
+        "Material": {
+            "txt": "ДУБ КАТАРИНИ вер",
+            "value": "17"
+        },
+        "Svg": {
+            "Canvas": {
+                "x": "20",
+                "y": "20",
+                "width": "200",
+                "height": "500",
+                "rx": "0",
+                "ry": "0",
+                "fill": "#fff",
+                "stroke": "#ff0000",
+                "fill-opacity": "0.01",
+                "cursor": "pointer",
+                "stroke-width": "2"
+            },
+            "Box": {
+                "x": "220",
+                "y": "0",
+                "width": "20",
+                "height": "520",
+                "rx": "0",
+                "ry": "0",
+                "fill": "#fff",
+                "stroke": "#ff0000",
+                "fill-opacity": "0.01",
+                "cursor": "pointer",
+                "stroke-width": "2"
+            }
+        }
+    },
+    "88": {
+        "Complect": {
+            "7": {
+                "sectId": "7",
+                "sectName": "Открывание",
+                "complect": [
+                    {
+                        "txt": "Lcп",
+                        "value": "15"
+                    },
+                    {
+                        "txt": "Rcп",
+                        "value": "16"
+                    }
+                ],
+                "block": [
+                    {
+                        "txt": "ДУБ КАТАРИНИ вер",
+                        "value": "17"
+                    },
+                    {
+                        "txt": "DOMANI 45 GROUND",
+                        "value": "22"
+                    }
+                ],
+                "zeroing": "N",
+                "svg": {
+                    "type": "Rectangle",
+                    "x": "32",
+                    "y": "280",
+                    "width": "54",
+                    "height": "22",
+                    "strokeWidth": "2",
+                    "strokeColor": "#ff0000",
+                    "id": "-20835898100277372"
+                },
+                "Complect": [
+                    {
+                        "img": null,
+                        "icon": "/upload/iblock/228/levaya.svg",
+                        "price": "1400"
+                    },
+                    {
+                        "img": null,
+                        "icon": "/upload/iblock/d00/pravaya.svg",
+                        "price": "1500"
+                    }
+                ]
+            },
+            "11": {
+                "sectId": "11",
+                "sectName": "Стекло",
+                "complect": [
+                    {
+                        "txt": "Стекло",
+                        "value": "73"
+                    }
+                ],
+                "block": [
+                    {
+                        "txt": "BIG LINE мат.хром",
+                        "value": "20"
+                    },
+                    {
+                        "txt": "DOMANI 45 GROUND",
+                        "value": "22"
+                    }
+                ],
+                "zeroing": "Y",
+                "svg": {
+                    "type": "Rectangle",
+                    "x": "19",
+                    "y": "250",
+                    "width": "202",
+                    "height": "99",
+                    "strokeWidth": "2",
+                    "strokeColor": "#ff0000",
+                    "id": "-9804731107099032"
+                },
+                "Complect": [
+                    {
+                        "img": "/upload/iblock/9cc/899e3b8604acfb7ede99e500484c685b.jpg",
+                        "icon": "/upload/iblock/9cc/899e3b8604acfb7ede99e500484c685b.jpg",
+                        "price": "1000"
+                    }
+                ]
+            }
+        },
+        "Model": {
+            "txt": "DOMANI 45 BRIDGE",
+            "value": "21"
+        },
+        "Razmer": [
+            {
+                "txt": "908x2396",
+                "value": "13"
+            },
+            {
+                "txt": "608x1996",
+                "value": "14"
+            }
+        ],
+        "Material": {
+            "txt": "ДУБ МОХАВЕ гор",
+            "value": "18"
+        },
+        "Svg": {
+            "Canvas": {
+                "x": "20",
+                "y": "20",
+                "width": "200",
+                "height": "500",
+                "rx": "0",
+                "ry": "0",
+                "fill": "#fff",
+                "stroke": "#ff0000",
+                "fill-opacity": "0.01",
+                "cursor": "pointer",
+                "stroke-width": "2"
+            },
+            "Box": {
+                "x": "220",
+                "y": "0",
+                "width": "20",
+                "height": "520",
+                "rx": "0",
+                "ry": "0",
+                "fill": "#fff",
+                "stroke": "#ff0000",
+                "fill-opacity": "0.01",
+                "cursor": "pointer",
+                "stroke-width": "2"
+            }
+        }
+    }
+}

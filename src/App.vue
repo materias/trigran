@@ -1,16 +1,23 @@
 <template>
   <div id="app">
-    <Constructor />
+    <Conf />
   </div>
 </template>
 
 <script>
-import Constructor from './components/Constructor.vue'
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
+
+import Conf from './components/Conf'
 
 export default {
   name: 'App',
   components: {
-    Constructor
+    Conf
+  },
+  data() {
+    return {
+    }
   }
 }
 </script>
